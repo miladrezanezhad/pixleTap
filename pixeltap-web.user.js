@@ -7,8 +7,8 @@
 // @match        *://sexyzbot.pxlvrs.io/*
 // @homepage     https://github.com/miladrezanezhad/pixleTap
 // @icon         https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRZ8fIh36hOYyMEv7XiDsX0EMOP2MC18Trptg&s
-// @downloadURL  https://github.com/miladrezanezhad/PixelTap/raw/main/pixeltap-web.user.js
-// @updateURL    https://github.com/miladrezanezhad/PixelTap/raw/main/pixeltap-web.user.js
+// @downloadURL  https://github.com/miladrezanezhad/pixleTap/raw/main/pixeltap-web.user.js
+// @updateURL    https://github.com/miladrezanezhad/pixleTap/raw/main/pixeltap-web.user.js
 // ==/UserScript==
 
 
