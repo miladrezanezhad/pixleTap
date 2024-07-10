@@ -3,7 +3,7 @@
 // @version      1.3
 // @author       miladrezanezhad
 // @name         PixelTap Autoclicker
-// @description  21.06.2024, 21:31:29
+// @description  10.07.2024, 21:31:29
 // @match        *://sexyzbot.pxlvrs.io/*
 // @homepage     https://github.com/miladrezanezhad/pixleTap
 // @icon         https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRZ8fIh36hOYyMEv7XiDsX0EMOP2MC18Trptg&s
